@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+google-generativeai
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+
+# Database & SQLAlchemy (MySQL)
+sqlalchemy
+pymysql
+
+# Web Scraping & HTTP Requests
+requests
+beautifulsoup4

@@ -1,0 +1,6 @@
+langgraph # LangGraph: Jab aapko complex, multi-step AI agents, loops, aur state-ful workflows (graphs) banane hon, tab yeh library use hoti hai.
+langchain # LangChain: LLM-based applications banane ka core framework hai, jo prompts, chains, memory aur data connectors ko manage karne me madad karta hai.
+python-dotenv # python-dotenv: Apne project me `.env` file se secure tareeqe se API keys (jaise Groq ya OpenAI key) aur environment variables ko load karne ke liye use hoti hai.
+langchain-groq # langchain-groq: Groq ke ultra-fast LLMs (jaise Llama 3 models) ko LangChain ke sath seamlessly integrate karke use karne ke liye yeh package lagta hai.
+ipykernel # ipykernel: Jupyter Notebook ya Jupyter Lab environment me Python code ko run aur execute karne ke liye backend kernel provide karta hai.
+langchain_tavily # langchain_tavily: AI agents ko live internet aur web search ki capability dene ke liye Tavily search engine ko LangChain ke sath connect karta hai.
